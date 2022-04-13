@@ -1,0 +1,9 @@
+body {
+    background-color: lightsalmon;
+}
+
+#contenedor {
+    width: 90%;
+    max-width: 1024px;
+}
+
